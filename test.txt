@@ -1,2 +1,1 @@
 ini adalah file dari github
-ini adalah tambahan baris dari local
