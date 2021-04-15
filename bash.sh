@@ -1,1 +1,1 @@
-echo "<h1><marquee> CICD IDN!! <marquee></h1>" > index.html
+echo "<h1><marquee> CICD IDN 2!! <marquee></h1>" > index.html
