@@ -1,1 +1,1 @@
-echo "<h1> test index CICD versi 2 </h1>" > index.html
+echo "<h1><marquee> CICD IDN!! <marquee></h1>" > index.html
